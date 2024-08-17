@@ -60,16 +60,6 @@ Analyzing data from different business functions is crucial for understanding in
 - **Strategic Thinking:** Aligning analytics with business objectives for strategic decision-making.
 - **Attention to Detail:** Meticulous in data handling and dashboard design, ensuring accuracy and relevance.
 
-## Screenshots
-
-### Finance View
-![Finance View](path_to_your_image1.png)
-*Screenshot of the Finance View showcasing key financial metrics and performance indicators.*
-
-### Data Model
-![Data Model](path_to_your_image2.png)
-*Screenshot of the data model highlighting the relationships between various tables and data sources.*
-
 ## Live Dashboard
 
 Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzE5YmVhMjUtNzYwMi00MDdhLThmNWUtNGRiNjllYjFmMGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
@@ -77,4 +67,3 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzE5YmV
 ## Conclusion
 
 This repository demonstrates my expertise in using Power BI to create comprehensive business insights dashboards. It highlights my technical proficiency in data modeling and visualization, as well as my ability to drive strategic decision-making through actionable insights.
-
