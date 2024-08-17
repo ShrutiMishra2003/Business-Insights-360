@@ -1,5 +1,10 @@
 # Business-Insights-360
 
+## Problem Statement
+
+AtliQ Hardware, a computer hardware manufacturer, faced sales declines in Latin America due to decisions based on surveys and intuition.
+Now, the task is to craft a multi-view dashboard that tracks sales trends across six departments, aiding their shift towards data-driven decision-making.
+
 ## Project Overview
 
 **Business Insights 360** is a comprehensive analytical solution designed to provide insights across multiple business functions in the FMCG sector. This Power BI project includes detailed views on Finance, Sales, Marketing, Supply Chain, and Executive metrics, enabling data-driven decision-making and strategic planning.
@@ -15,6 +20,10 @@
 4. **Supply Chain View:** Track and assess supply chain efficiency, including cost management and inventory turnover, ensuring smooth operations and cost control.
 
 5. **Executive View:** Provide a high-level summary of critical business metrics for executives, enabling quick and informed decision-making.
+   
+## Live Dashboard
+
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzE5YmVhMjUtNzYwMi00MDdhLThmNWUtNGRiNjllYjFmMGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Purpose of Business Insights 360
 
@@ -59,10 +68,6 @@ Analyzing data from different business functions is crucial for understanding in
 - **Communication:** Ability to convey complex data insights in a clear and effective manner to stakeholders.
 - **Strategic Thinking:** Aligning analytics with business objectives for strategic decision-making.
 - **Attention to Detail:** Meticulous in data handling and dashboard design, ensuring accuracy and relevance.
-
-## Live Dashboard
-
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzE5YmVhMjUtNzYwMi00MDdhLThmNWUtNGRiNjllYjFmMGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Conclusion
 
